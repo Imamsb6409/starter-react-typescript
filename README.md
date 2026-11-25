@@ -12,7 +12,7 @@ Repository ini adalah starter template resmi untuk pelaksanaan **Asesmen Akhir S
 Sebelum melakukan clone ke komputer masing-masing:
 
 1. Buka repository induk ini di browser:  
-   👉 **`https://github.com/abu-umair/starter-react-typescript`**
+   👉 **`https://github.com/Imamsb6409/starter-react-typescript`**
 2. Klik tombol **Fork** (di pojok kanan atas halaman GitHub).
 3. Pilih akun GitHub Anda sendiri, lalu klik **Create fork**.
 4. Sekarang Anda memiliki salinan repository di akun Anda sendiri:  
